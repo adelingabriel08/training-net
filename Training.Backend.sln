@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Training.Backend.API2", "Training.Backend.API2\Training.Backend.API2.csproj", "{0CC9508A-0AAA-4571-9125-9441936856C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Training.Backend.Data", "Training.Backend.Data\Training.Backend.Data.csproj", "{BD8E14A6-B985-41AA-9AD3-2E3C9C6E884B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CC9508A-0AAA-4571-9125-9441936856C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC9508A-0AAA-4571-9125-9441936856C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC9508A-0AAA-4571-9125-9441936856C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC9508A-0AAA-4571-9125-9441936856C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD8E14A6-B985-41AA-9AD3-2E3C9C6E884B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD8E14A6-B985-41AA-9AD3-2E3C9C6E884B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD8E14A6-B985-41AA-9AD3-2E3C9C6E884B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD8E14A6-B985-41AA-9AD3-2E3C9C6E884B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
